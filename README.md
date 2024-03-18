@@ -1,1 +1,1 @@
-### Example solution for mini-project
+### Working on open_chat with new ideas. (using existing code)
